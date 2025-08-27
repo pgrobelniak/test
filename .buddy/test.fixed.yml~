@@ -1,4 +1,4 @@
-- pipeline: test5
+- pipeline: test6
   refs:
   - refs/heads/main
   events:
