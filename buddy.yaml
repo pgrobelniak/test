@@ -4,4 +4,7 @@
   events:
   - type: PUSH
   fail_on_prepare_env_warning: true
-
+  actions:
+  - action: Sleep 15 seconds 2
+    type: SLEEP
+    sleep_in_sec: 15
