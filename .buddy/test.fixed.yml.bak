@@ -1,7 +1,0 @@
-- pipeline: test1756731689
-  refs:
-  - refs/heads/main
-  events:
-  - type: PUSH
-  fail_on_prepare_env_warning: true
-
